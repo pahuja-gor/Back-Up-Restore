@@ -1,2 +1,2 @@
 # Back Up-Restore
- 
+A framework that takes in user input for the source folder's filepath and the destination folder's filepath. The framework allows the user to take a back up of the source folder and copy its contents into the destination folder. Along with copying the contents of the source folder, the framework stores a copy of the destination folder into a gzipped tar file. The framework also allows user to validate the back up by checking if both the source folder and destination folder contain the same subfolders and files. Lastly, the framework allows the user to restore the source folder's data with the backup taken by the framework.
